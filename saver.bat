@@ -1,0 +1,1 @@
+reg export "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Bags\1\Desktop" "%CD%\DesktopIconLayoutSave.reg"
