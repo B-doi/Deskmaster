@@ -1,3 +1,5 @@
+RUN 0Main.py not saver.bat in order to run the program
+
 Important:
 ⚠️⚠️ LOADING AND MOVING WILL BRIEFLY KILL THE WINDOWS FILE EXPORER, make sure nothing is being uploaded/downloaded/deleted/moved around as it may corrupt the data ⚠️⚠️
 
